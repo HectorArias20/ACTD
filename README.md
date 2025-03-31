@@ -11,3 +11,6 @@ Puedes conectarte usando IPv6 si está disponible, pero la dirección `10.8.58.6
 Ejecuta el siguiente comando:  
 ```bash
 ssh -l cg-nms-administrator 10.8.58.6
+
+```
+Nota: El GOS IPv4 es el mismo en todos los CGRs. Usa el usuario y contraseña del CGR.
