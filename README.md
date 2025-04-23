@@ -20,11 +20,11 @@ El cliente puede estar en diferentes ubicaciones, como /root, /software/download
 
 Lo que se debe encontrar es algo como esto **ioxclient_1.9.2.0_linux_386**, puede ser que tenga una version diferente.
 
-Ejemplo de navegación a una versión específica:
+Ejemplo:
 ```bash
 cd /software/downloads/ioxclient_1.9.2.0_linux_386
 ```
-
+**Una vez en esa ruta vamos al siguiente paso.**
 ## 4. Verificar el estado de actd
 Ejecuta el siguiente comando:
 ```bash
