@@ -18,6 +18,8 @@ Nota: El GOS IPv4 es el mismo en todos los CGRs. Usa el usuario y contraseña de
 ## 3. Navegar a la carpeta de ioxclient
 El cliente puede estar en diferentes ubicaciones, como /root, /software/downloads/, o /home/cg-nms-administrator.
 
+Lo que se debe encontrar es algo como esto **ioxclient_1.9.2.0_linux_386**, puede ser que tenga una version diferente.
+
 Ejemplo de navegación a una versión específica:
 ```bash
 cd /software/downloads/ioxclient_1.9.2.0_linux_386
